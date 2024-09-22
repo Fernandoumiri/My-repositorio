@@ -1,5 +1,6 @@
 
 var audio = document.querySelector("audio");
+audio.src = "sound/Floricienta - Flores Amarillas.mp3";
 var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   /* { text: "At the time", time: 15 },
